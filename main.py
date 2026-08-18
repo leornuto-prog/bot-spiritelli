@@ -119,4 +119,4 @@ async def permessi_error(interaction: discord.Interaction, error: app_commands.A
 
 # Avvio del bot
 token = os.environ.get("DISCORD_TOKEN")
-bot.run(MTUzOTI1NzA3NDY5MTYwODY2Ng.GE2lyr.67X8tAFGRgtPYkH5vIUuHwiddC5DKA8zo9sQlk)
+bot.run(token)
